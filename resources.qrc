@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/hazardPrediction" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
